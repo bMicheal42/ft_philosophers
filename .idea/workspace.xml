@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="acc57dd8-cefe-4f69-87d3-40b4f3a2b05e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/philo_one/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/philo_one/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_one/philosophers.h" beforeDir="false" afterPath="$PROJECT_DIR$/philo_one/philosophers.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_one/utils.c" beforeDir="false" afterPath="$PROJECT_DIR$/philo_one/utils.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_three/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/philo_three/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_three/philosophers.h" beforeDir="false" afterPath="$PROJECT_DIR$/philo_three/philosophers.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_three/utils.c" beforeDir="false" afterPath="$PROJECT_DIR$/philo_three/utils.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_two/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/philo_two/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_two/philosophers.h" beforeDir="false" afterPath="$PROJECT_DIR$/philo_two/philosophers.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philo_two/utils.c" beforeDir="false" afterPath="$PROJECT_DIR$/philo_two/utils.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1nuuu41dtMu4K0bgWM5x79ev2Ox" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/philo_two" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acc57dd8-cefe-4f69-87d3-40b4f3a2b05e" name="Default Changelist" comment="" />
+      <created>1612252515526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612252515526</updated>
+      <workItem from="1612252516858" duration="17919000" />
+      <workItem from="1612335378080" duration="3417000" />
+      <workItem from="1612527761921" duration="8500000" />
+      <workItem from="1612540392718" duration="496000" />
+      <workItem from="1612680499951" duration="8050000" />
+      <workItem from="1612695433173" duration="1708000" />
+      <workItem from="1612700562486" duration="1360000" />
+      <workItem from="1612765162915" duration="14941000" />
+      <workItem from="1612788511723" duration="5977000" />
+      <workItem from="1612851713823" duration="936000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
