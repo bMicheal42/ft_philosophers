@@ -1,8 +1,7 @@
 # ft_philosophers
 
-"I’ve never thought philosophy would be so deadly"
 
-![Alt text](https://github.com/lucaslefrancq/42_philosophers/blob/main/philo_example.png)
+<img width="967" alt="Screenshot 2021-03-17 at 17 16 03" src="https://user-images.githubusercontent.com/73602657/111481924-7a0b0300-8744-11eb-8c80-c6879078ec68.png">
 
 ## About
 
